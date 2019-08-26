@@ -1,5 +1,5 @@
-# p5.jsのテンプレート
+# p5.jsでペイント
 
 # DEMO
-https://yuki-sakaguchi.github.io/p5-base/
+https://yuki-sakaguchi.github.io/p5-paint/
 
