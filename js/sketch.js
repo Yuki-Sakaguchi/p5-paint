@@ -1,16 +1,12 @@
 function setup () {
   createCanvas(window.innerWidth, window.innerHeight)
-  background(255) //背景の色
+  // background(255) //背景の色
   frameRate(30)
   colorMode(HSB, 360, 100, 100)
 }
 
 function windowResized () {
   resizeCanvas(windowWidth, windowHeight)
-}
-
-function draw () {
-
 }
 
 function mousePressed () {
